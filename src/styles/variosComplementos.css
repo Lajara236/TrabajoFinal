@@ -1,0 +1,60 @@
+.barra-busqueda {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 100;
+
+}
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.buscar-boton{
+    -fx-background-color: #828282;
+    -fx-background-radius: 30;
+}
+
+.left-side-background{
+    -fx-background-color: #022135;
+}
+.right-side-background{
+    -fx-background-color: #ccffff;
+}
+
+.sombra{
+    -fx-effect: dropshadow(three-pass-box,#8094f8, 10, 0, 0, 10);
+}
+.elegir-comida-carta{
+    -fx-background-color:#ffffff;
+    -fx-background-radius: 30;
+
+}
+.comboBox{
+    -fx-background-color:rgba(180,180,180,0.3);
+    -fx-background-radius: 30; 
+}
+.addBtn{
+    -fx-background-color: #979797;
+    -fx-background-radius: 100; 
+}
+.botonPedidos{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 100; 
+    -fx-border-color: #00ffff;
+    -fx-border-radius: 100;
+    -fx-border-width: 3;
+}
+.botonMenu{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 100; 
+    -fx-border-color: #00ffff;
+    -fx-border-radius: 100;
+    -fx-border-width: 3;
+}
+
+.productos-css{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 30;
+}
+
+.scroll-pane {
+   -fx-background: #ccffff;
+   -fx-border-color: #ccffff;
+}
