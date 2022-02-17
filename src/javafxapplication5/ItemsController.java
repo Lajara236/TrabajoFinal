@@ -24,6 +24,8 @@ import modelo.Producto;
  */
  public class ItemsController implements Initializable {
 
+     
+     //SUuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
     @FXML
     private Label nombreLbl;
 
